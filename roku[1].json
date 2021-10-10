@@ -1,0 +1,291 @@
+{
+  "lastUpdated": "2020-09-28T12:09:10+00:00",
+  "providerName": "Guide US TV",
+  "language": "en-US",
+  "movies": [
+    {
+      "id": "05e254de83f2493c9066ea393a05ae1",
+      "title": "Last Night LIVE 10 02 2021",
+      "content": {
+        "dateAdded": "2021-10-03T04:06:03+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/621222601.hd.mp4?s=4c1fa55f4c5fd24d29ab9615535e016eba89199b&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/031020211633233963.jpeg",
+      "releaseDate": "2021-10-03",
+      "shortDescription": "Last Night LIVE 10 02 2021",
+      "longDescription": "Last Night LIVE 10 02 2021",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae2",
+      "title": "Last Night LIVE 10 01 2021",
+      "content": {
+        "dateAdded": "2021-10-02T05:30:39+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/620422261.hd.mp4?s=9b72ff6ad0bc244bcd8e40f78ae65904e9d522ca&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/021020211633152639.jpeg",
+      "releaseDate": "2021-10-02",
+      "shortDescription": "Last Night LIVE 10 01 2021",
+      "longDescription": "Last Night LIVE 10 01 2021",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae3",
+      "title": "Last Night LIVE 09 30 2021",
+      "content": {
+        "dateAdded": "2021-10-01T04:56:28+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/619535021.hd.mp4?s=5eca5c3a7159c61b7b7b1cc41ebde256cf3fa53d&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/011020211633064188.jpeg",
+      "releaseDate": "2021-10-01",
+      "shortDescription": "Last Night LIVE 09 30 2021",
+      "longDescription": "Last Night LIVE 09 30 2021",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae4",
+      "title": "Let’s Talk September 29, 2021",
+      "content": {
+        "dateAdded": "2021-10-01T04:28:42+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/618839401",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/011020211633062522.jpeg",
+      "releaseDate": "2021-10-01",
+      "shortDescription": "Let’s Talk September 29, 2021",
+      "longDescription": "Let’s talk what does Islam tell us about earthquakes volcanoes lightning strikes and animals going extinct",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae5",
+      "title": "Last Night LIVE 09 29 2021",
+      "content": {
+        "dateAdded": "2021-09-30T05:47:08+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/618521739.hd.mp4?s=ba941f0a7f3fd7b2da8b229b97857cefcb34a2f3&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/300920211632980828.jpeg",
+      "releaseDate": "2021-09-30",
+      "shortDescription": "Last Night LIVE 09 29 2021",
+      "longDescription": "Last Night LIVE 09 29 2021",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae6",
+      "title": "Last Night LIVE 09 29 2021",
+      "content": {
+        "dateAdded": "2021-09-30T00:49:14+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/617515229.hd.mp4?s=06fdb243ded21b0fab84af2bb1e26181166b1db1&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/300920211632962954.jpeg",
+      "releaseDate": "2021-09-30",
+      "shortDescription": "Last Night LIVE 09 29 2021",
+      "longDescription": "Last Night LIVE 09 29 2021",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae7",
+      "title": "Let’s Talk Doctor’s Night September 28, 2021",
+      "content": {
+        "dateAdded": "2021-09-30T00:30:07+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/617933985",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/300920211632961808.jpeg",
+      "releaseDate": "2021-09-30",
+      "shortDescription": "Let’s Talk Doctor’s Night September 28, 2021",
+      "longDescription": "Let’s Talk Doctor’s Night our health",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae8",
+      "title": "Let’s talk  Doctor’s night September 27, 2021",
+      "content": {
+        "dateAdded": "2021-09-28T16:26:00+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/616996007",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/280920211632846360.jpeg",
+      "releaseDate": "2021-09-28",
+      "shortDescription": "Let’s talk  Doctor’s night September 27, 2021",
+      "longDescription": "Let’s talk doctor’s night keeping up the good work of protecting yourself and others from the coronavirus",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae9",
+      "title": "Last Night LIVE 09 27 2021",
+      "content": {
+        "dateAdded": "2021-09-28T07:04:50+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/616557665.hd.mp4?s=2dcd465332b0dd0079aa84c43b69c57ae8b34e14&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/280920211632812690.jpeg",
+      "releaseDate": "2021-09-28",
+      "shortDescription": "Last Night LIVE 09 27 2021",
+      "longDescription": "Last Night LIVE 09 27 2021",
+      "tags": [
+        "VOD"
+      ]
+    },       {
+      "id": "05e254de83f2493c9066ea393a05ae10",
+      "title": "Last Night LIVE 09 26 2021",
+      "content": {
+        "dateAdded": "2021-09-28T01:06:04+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/615641751.hd.mp4?s=493a5e74c67177237c5ee8f9f4fb1cd685c2ba6f&amp;profile_id=174",
+            "quality": "SD",
+            "videoType": "MP4",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 3600
+      },
+      "genres": [
+        "faith"
+      ],
+      "thumbnail": "https://roku.guideus.app/wp/wp-content/uploads/280920211632791164.jpeg",
+      "releaseDate": "2021-09-28",
+      "shortDescription": "Last Night LIVE 09 26 2021",
+      "longDescription": "Last Night LIVE 09 26 2021",
+      "tags": [
+        "VOD"
+      ]
+    }   	
+  ],
+  "liveFeeds": [
+    {
+      "id": "ebac63c2561844c8a2e491a45710b4ae",
+      "title": "Guide US TV LIVE",
+      "content": {
+        "dateAdded": "2020-04-19T23:03:23+00:00",
+        "videos": [
+          {
+            "url": "http://stream.streamislam.com:1930/hls/live/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 36000
+      },
+      "thumbnail": "https://roku.guideus.app/guideus-scaled.jpg",
+      "brandedThumbnail": "http://guideus.tv/roku/guideustv-posterhd.png",
+      "shortDescription": "Guide US TV LIVE Broadcast",
+      "longDescription": "Guide US TV LIVE Broadcast",
+      "tags": [
+        "LiveTV"
+      ],
+      "genres": [
+        "faith"
+      ]
+    }
+  ],
+    "series": [
+  ],
+  "shortFormVideos": [
+  ],
+  "tvSpecials": [
+  ]
+}
